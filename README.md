@@ -9,7 +9,7 @@ This repository is designed to serve as a structured academic resource for stude
 ## 👤 Maintainer
 
 **Nabojwal Acharjee**  
-Graduate, North Eastern Regional Institute of Science and Technology (NERIST), Arunachal Pradesh  
+Graduate Student, North Eastern Regional Institute of Science and Technology (NERIST), Arunachal Pradesh  
 
 ---
 

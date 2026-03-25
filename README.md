@@ -1,4 +1,4 @@
-# 📘 Awesome-Computational-Engineering
+# 📘 Awesome Computational-Electrical Engineering
 
 A personally curated collection of foundational textbooks spanning Electrical Engineering, Computer Science, and applied mathematics.
 
